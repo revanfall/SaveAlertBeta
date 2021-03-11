@@ -1,0 +1,44 @@
+﻿@{
+    
+    Layout = null;
+}
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>SaveAlert</title>
+    <link rel="stylesheet" href="~/css/styles.css">
+    
+</head>
+<body>
+    <h1 class="header">SaveAlert</h1>
+    <form asp-action="Authorization" asp-controller="Home">
+        <div class="container widthform">
+
+
+            <label for="email"><b>Email</b></label>
+            <input type="text" placeholder="Введите вашу почту" name="mail" required>
+
+            <label for="psw"><b>Пароль</b></label>
+            <input type="password" placeholder="Введите пароль" name="password" required>
+
+
+
+            <div class="clearfix">
+              <button type="submit" class="loginbutton">Авторизация</button>
+              
+                <a asp-action="RegistrationForm"><button type="button" class="signupbtn">Регистрация</button></a> 
+              
+
+
+            </div>
+        </div>
+    </form>
+
+
+
+</body>
+
+
+
+</html>

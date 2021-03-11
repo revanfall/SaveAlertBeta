@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Отправить письмо</title>
+    <link rel="stylesheet" href="~/css/styles.css">
+</head>
+<body>
+    <form asp-action="LetterForm" asp-controller="Home">
+        <h1 class="header">SaveAlert</h1>
+        <div class="container widthform">
+
+
+            <label for="adress"><b></b></label>
+            <input type="text" placeholder="Введите адрес" name="address" required>
+
+
+
+
+
+            <div class="clearfix">
+                <button type="submit" class="signupbtn">Отправить письмо</button>
+            </div>
+        </div>
+    </form>
+
+</body>
+
+
+</html>

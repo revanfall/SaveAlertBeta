@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Ilya\.nuget\packages\bootstrap\4.6.0\contentFiles\any\any\wwwroot\css\bootstrap-grid.css" t="Include" />
+    <e p="C:\Users\Ilya\.nuget\packages\bootstrap\4.6.0\contentFiles\any\any\wwwroot\css\bootstrap-grid.css.map" t="Include" />
+    <e p="C:\Users\Ilya\.nuget\packages\bootstrap\4.6.0\contentFiles\any\any\wwwroot\css\bootstrap-grid.min.css" t="Include" />
+    <e p="C:\Users\Ilya\.nuget\packages\bootstrap\4.6.0\contentFiles\any\any\wwwroot\css\bootstrap-grid.min.css.map" t="Include" />
+    <e p="C:\Users\Ilya\.nuget\packages\bootstrap\4.6.0\contentFiles\any\any\wwwroot\css\bootstrap-reboot.css" t="Include" />
+    <e p="C:\Users\Ilya\.nuget\packages\bootstrap\4.6.0\contentFiles\any\any\wwwroot\css\bootstrap-reboot.css.map" t="Include" />
+    <e p="C:\Users\Ilya\.nuget\packages\bootstrap\4.6.0\contentFiles\any\any\wwwroot\css\bootstrap-reboot.min.css" t="Include" />
+    <e p="C:\Users\Ilya\.nuget\packages\bootstrap\4.6.0\contentFiles\any\any\wwwroot\css\bootstrap-reboot.min.css.map" t="Include" />
+    <e p="C:\Users\Ilya\.nuget\packages\bootstrap\4.6.0\contentFiles\any\any\wwwroot\css\bootstrap.css" t="Include" />
+    <e p="C:\Users\Ilya\.nuget\packages\bootstrap\4.6.0\contentFiles\any\any\wwwroot\css\bootstrap.css.map" t="Include" />
+    <e p="C:\Users\Ilya\.nuget\packages\bootstrap\4.6.0\contentFiles\any\any\wwwroot\css\bootstrap.min.css" t="Include" />
+    <e p="C:\Users\Ilya\.nuget\packages\bootstrap\4.6.0\contentFiles\any\any\wwwroot\css\bootstrap.min.css.map" t="Include" />
+    <e p="C:\Users\Ilya\.nuget\packages\bootstrap\4.6.0\contentFiles\any\any\wwwroot\js" t="Include">
+      <e p="bootstrap.bundle.js" t="Include" />
+      <e p="bootstrap.bundle.js.map" t="Include" />
+      <e p="bootstrap.bundle.min.js" t="Include" />
+      <e p="bootstrap.bundle.min.js.map" t="Include" />
+      <e p="bootstrap.js" t="Include" />
+      <e p="bootstrap.js.map" t="Include" />
+      <e p="bootstrap.min.js" t="Include" />
+      <e p="bootstrap.min.js.map" t="Include" />
+    </e>
+    <e p="C:\Users\Ilya\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Ilya\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Ilya\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Ilya\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_SaveAlertBeta.-432858344.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Ilya\source\repos\SaveAlertBeta" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SaveAlertBeta" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="HomeController.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="CurrentUser.cs" t="Include" />
+          <e p="User.cs" t="Include" />
+          <e p="UserContext.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="SaveAlertBeta.AssemblyInfo.cs" t="Include" />
+              <e p="SaveAlertBeta.RazorAssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="SaveAlertBeta.csproj" t="IncludeRecursive" />
+        <e p="Startup.cs" t="Include" />
+        <e p="Views" t="Include">
+          <e p="_ViewImports.cshtml" t="Include" />
+          <e p="Home" t="Include">
+            <e p="Index.cshtml" t="Include" />
+            <e p="LetterForm.cshtml" t="Include" />
+            <e p="RegistrationForm.cshtml" t="Include" />
+          </e>
+        </e>
+        <e p="wwwroot" t="Include">
+          <e p="css" t="Include">
+            <e p="styles.css" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="SaveAlertBeta.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

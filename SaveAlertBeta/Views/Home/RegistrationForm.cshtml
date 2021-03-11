@@ -1,0 +1,39 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Регистрация</title>
+    <link rel="stylesheet" href="~/css/styles.css">
+</head>
+<body>
+    <h1 class="header">SaveAlert</h1>
+    <form method="post">
+        <div class="container widthform">
+            <input type="hidden" value="@ViewBag.Id" name="Id" />
+            <label for="name"><b>Имя</b></label>
+            <input type="text" placeholder="Введите ваше имя" name="Name" required>
+
+            <label for="surname"><b>Фамилия</b></label>
+            <input type="text" placeholder="Введите вашу фамилию" name="Surname" required>
+
+
+            <label for="email"><b>Email</b></label>
+            <input type="text" placeholder="Введите вашу почту" name="Email" required>
+
+            <label for="psw"><b>Пароль</b></label>
+            <input type="password" placeholder="Введите пароль" name="Password" required>
+            <label for="confirm-psw"><b>Подтвердите пароль</b></label>
+            <input type="password" placeholder="Подтвердите пароль" name="psw" required>
+
+
+            <div class="clearfix">
+                <button type="submit" class="signupbtn">Регистрация</button>
+                <a asp-action="Index"><button type="button" class="cancelbtn">Отменить</button></a>
+            </div>
+        </div>
+    </form>
+</body>
+</html>
